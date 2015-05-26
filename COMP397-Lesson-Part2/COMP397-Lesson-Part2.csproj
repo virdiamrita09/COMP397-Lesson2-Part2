@@ -68,6 +68,7 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Asserts\Images\images.jpg" />
     <Content Include="CSS\main.css" />
     <Content Include="index.html" />
     <Content Include="Scripts\Lib\easeljs-0.8.0.min.js" />
@@ -82,7 +83,6 @@
   <ItemGroup>
     <Folder Include="Asserts\Audio\" />
     <Folder Include="Asserts\fonts\" />
-    <Folder Include="Asserts\Images\" />
   </ItemGroup>
   <ItemGroup>
     <TypeScriptCompile Include="Scripts\game.ts" />
